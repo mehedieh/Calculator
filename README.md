@@ -4,19 +4,20 @@
   <img alt="Calculator" src="https://res.ppizarror.com/other/python.png" width="200px" height="200px" />
   <br /><br />
   Calculator</h1>
-  
-  <div align="center"> [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-<a href="https://www.python.org/downloads/"><img alt="Python 3.8" src="https://res.ppizarror.com/badges/python27.svg" /></a>
-</div><br />
-
 
 ![Calculator](https://raw.githubusercontent.com/mehedieh/Calculator/master/Calculator.png)
 
-A simple calculator project using python and tktintere
+A simple calculator project using Python and Tkinter
 
 
 # Usage
-
+ You need to have Python 3.8 with Tkinter installed in your computer.
+ - Press Calculator.bat to open the calculator
+ - Or simply open CMD on the destination folder and run
+ 
+```
+python Calculator.py
+```
 
 
 # Features
