@@ -27,6 +27,7 @@ A simple calculator project using python and tktintere
 
 [![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dwyl/hapi-auth-jwt2?targetFile=package.json)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 # Technologies
 
@@ -36,3 +37,5 @@ This app uses various libraries to run
 * [Tkinter](https://wiki.python.org/moin/TkInter) - Provides GUI for the application
 # Author
 Mehedi Hasan
+
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
