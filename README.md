@@ -5,7 +5,7 @@
   <br /><br />
   Calculator</h1>
   
-  <div align="center"><a href="https://www.gnu.org/licenses/"><img alt="Licencia GPL v3" src="https://res.ppizarror.com/badges/licenciagpl3.svg"/></a>
+  <div align="center"> [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 <a href="https://www.python.org/downloads/"><img alt="Python 3.8" src="https://res.ppizarror.com/badges/python27.svg" /></a>
 </div><br />
 
